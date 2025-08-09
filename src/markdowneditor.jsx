@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ReactMarkdown from 'react-markdown'
-export default function MarkdownEditor() {
+export  function MarkdownEditor() {
     const [markdownInput, setMarkdownInput] = useState()
     return (
         <div className="App">

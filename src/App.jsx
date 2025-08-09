@@ -1,6 +1,6 @@
 import './App.css'
 import React from 'react'
-import MarkdownEditor from './MarkdownEditor'
+import {MarkdownEditor} from './MarkdownEditor'
 
 function App() {
     return (
